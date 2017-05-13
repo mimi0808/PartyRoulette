@@ -14,9 +14,7 @@ Opis wstêpny:
 
 Planujemy zrobiæ ruletkê w WPFie  (zasady weŸmiemy st¹d https://pl.wikipedia.org/wiki/Ruletka_(gra))
 Do gry bêdzie mog³o przyst¹piæ kilku graczy, ka¿dy z nich bêdzie móg³ przed wylosowaniem numeru zdecydowaæ czy chce i je¿eli tak, to ile zamierza postawiæ.
-Naszym celem jest jak najbli¿sze odwzorowanie zasad gry, u¿ywaj¹c mo¿liwoœci WPF'a. Zamierzamy dodaæ kilka dodatkowych funkcji 
-
-takich jak, historia betów, customowa wielkoœæ betów, animacja losowania oraz wiele innych.
+Naszym celem jest jak najbli¿sze odwzorowanie zasad gry, u¿ywaj¹c mo¿liwoœci WPF'a. Zamierzamy dodaæ kilka dodatkowych funkcji takich jak, historia betów, customowa wielkoœæ betów, animacja losowania oraz wiele innych.
 
 ===============================================================================
 \
